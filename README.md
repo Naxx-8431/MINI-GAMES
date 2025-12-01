@@ -7,7 +7,7 @@ This project contains two small browser games made using HTML, CSS, and JavaScri
 
 A simple home page allows the user to choose between the two games.
 
-## 🔗 Live Website
+##  Live Website
 **URL:** https://naxx-8431.github.io/MINI-GAMES/
 
 ## Features
