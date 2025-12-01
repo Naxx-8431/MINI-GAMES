@@ -15,17 +15,6 @@ A simple home page allows the user to choose between the two games.
 - Auto-play mode for both games  
 - Works without any external libraries
 
-## Project Structure
-
-```
-index.html                - Home page
-rockpaperscissors.html   - Rock Paper Scissors game
-rockpaperscissor.css
-rockpaperscissor.js
-headortail.html          - Head or Tail game
-headortail.css
-headortail.js
-```
 
 ## How to Play
 
