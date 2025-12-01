@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Head or Tail</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="headortail.css" />
+</head>
+<body>
+  <h1 class="heading">HEAD OR TAIL</h1>
+
+  <button class="move-btn" onclick="playGame('head')">
+    <span class="pick-icon">🙂</span>
+  </button>
+
+  <button class="move-btn" onclick="playGame('tail')">
+    <span class="pick-icon">🙃</span>
+  </button>
+
+  <p class="result js-result"></p>
+  <p class="js-moves"></p>
+  <p class="score js-score"></p>
+
+  <button class="autoPlay-btn" onclick="toggleAutoPlay()">Auto Play</button>
+  <button class="reset-btn" onclick="resetScore()">Reset Score</button>
+
+  <script src="headortail.js"></script>
+</body>
+</html>
